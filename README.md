@@ -30,7 +30,9 @@
 I’m a **Full Stack Developer** who believes code should read like poetry and run like lightning ⚡  
 Started with **Java ☕**, fell for **TypeScript 💙** which is funny because my college web dev professor once said I’d probably never end up in web dev, and now spend my time building systems that scale — technically and creatively.  
 
-> “Clean code isn’t about perfection; it’s about intention.”
+> “There are only two hard things in Computer Science: cache invalidation and naming things."
+
+-- Phil Karlton
 
 ---
 
